@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "637061981526",
+    "project_id": "mydeliveryapp-68649",
+    "storage_bucket": "mydeliveryapp-68649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637061981526:android:faccbdcb06745da62f22f7",
+        "android_client_info": {
+          "package_name": "uz.gita.foodapp_mehriddin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637061981526-agortos31ku82j6c2ps0ednnifvhbfin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tsfk3HeYS5wpnOd4ekDP8Mlm61Esmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637061981526-agortos31ku82j6c2ps0ednnifvhbfin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637061981526:android:f16232c62bbafd492f22f7",
+        "android_client_info": {
+          "package_name": "uz.gita.fooddeliveryumidjon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637061981526-agortos31ku82j6c2ps0ednnifvhbfin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tsfk3HeYS5wpnOd4ekDP8Mlm61Esmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637061981526-agortos31ku82j6c2ps0ednnifvhbfin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
